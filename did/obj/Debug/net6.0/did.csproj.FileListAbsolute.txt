@@ -1,0 +1,15 @@
+C:\Users\khmav\DID\did\bin\Debug\net6.0\did.exe
+C:\Users\khmav\DID\did\bin\Debug\net6.0\did.deps.json
+C:\Users\khmav\DID\did\bin\Debug\net6.0\did.runtimeconfig.json
+C:\Users\khmav\DID\did\bin\Debug\net6.0\did.dll
+C:\Users\khmav\DID\did\bin\Debug\net6.0\did.pdb
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.csproj.AssemblyReference.cache
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.AssemblyInfoInputs.cache
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.AssemblyInfo.cs
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.csproj.CoreCompileInputs.cache
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.dll
+C:\Users\khmav\DID\did\obj\Debug\net6.0\refint\did.dll
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.pdb
+C:\Users\khmav\DID\did\obj\Debug\net6.0\did.genruntimeconfig.cache
+C:\Users\khmav\DID\did\obj\Debug\net6.0\ref\did.dll
